@@ -26,15 +26,15 @@ alt="Typing Animation"
 
 <br><br>
 
-<a href="https://github.com/kyhvn">
+<a href="https://https://github.com/kyhvn">
 <img src="https://img.shields.io/badge/GITHUB-0B0F12?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/mahdi-rajabi-7361562b4">
 <img src="https://img.shields.io/badge/LINKEDIN-0B0F12?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:kyhvnog@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0B0F12?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
